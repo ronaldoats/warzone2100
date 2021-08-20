@@ -171,6 +171,8 @@ data/mp/multiplay/script/rules/setup/techlevel.js
 data/mp/multiplay/script/rules/setupgame.js
 data/mp/multiplay/script/rules/variables.js
 data/mp/multiplay/script/scavengers/init.js
+data/mp/multiplay/script/scavengers/originalScavengers.js
+data/mp/multiplay/script/scavengers/ultimateScavengers.js
 data/mp/multiplay/skirmish/Cobra.js
 data/mp/multiplay/skirmish/bonecrusher/bonecrusher.js
 data/mp/multiplay/skirmish/bonecrusher/build-normal.js

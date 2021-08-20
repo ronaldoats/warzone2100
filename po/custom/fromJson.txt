@@ -1590,6 +1590,12 @@ _("Counter-battery tower detects enemy indirect fire batteries")
 // data/mp/messages/resmessages12.json: $.RES_SY_CBSTU1.text[1]
 _("Counter-battery turret detects enemy indirect fire batteries")  
 // TRANSLATORS: 
+// data/mp/stats/construction.json: $.scavCrane1.name
+_("Crane1")  
+// TRANSLATORS: 
+// data/mp/stats/construction.json: $.scavCrane2.name
+_("Crane2")  
+// TRANSLATORS: 
 // data/base/stats/research.json: $.R-Cyborg-Metals02.name
 // data/mp/stats/research.json: $.R-Cyborg-Metals02.name
 _("Cyborg Composite Alloys Mk2")  
@@ -5026,6 +5032,9 @@ _("Scavenger AT-Rocket Pit")
 // data/mp/stats/structure.json: $.A0BaBaBunker.name
 _("Scavenger Bunker")  
 // TRANSLATORS: 
+// data/mp/stats/structure.json: $.A0BaBaVtolFactory.name
+_("Scavenger Chopper Factory")  
+// TRANSLATORS: 
 // data/base/stats/structure.json: $.A0BabaCornerWall.name
 // data/mp/stats/structure.json: $.A0BabaCornerWall.name
 _("Scavenger CornerWall")  
@@ -5046,9 +5055,18 @@ _("Scavenger Gun Tower")
 // data/mp/stats/structure.json: $.A0BaBaHorizontalWall.name
 _("Scavenger Horizontal Wall")  
 // TRANSLATORS: 
+// data/mp/stats/structure.json: $.bbaatow.name
+_("Scavenger MG tower")  
+// TRANSLATORS: 
+// data/mp/stats/weapons.json: $.bbaawep.name
+_("Scavenger Mounted MG")  
+// TRANSLATORS: 
 // data/base/stats/structure.json: $.A0BaBaPowerGenerator.name
 // data/mp/stats/structure.json: $.A0BaBaPowerGenerator.name
 _("Scavenger Power Generator")  
+// TRANSLATORS: 
+// data/mp/stats/structure.json: $.ScavRepairCentre.name
+_("Scavenger Repair Center")  
 // TRANSLATORS: 
 // data/base/stats/structure.json: $.A0BaBaRocketPit.name
 // data/mp/stats/structure.json: $.A0BaBaRocketPit.name
@@ -5057,6 +5075,9 @@ _("Scavenger Rocket Pit")
 // data/base/stats/templates.json: $.BaBaPeople.name
 // data/mp/stats/templates.json: $.BaBaPeople.name
 _("Scavenger")  
+// TRANSLATORS: 
+// data/mp/stats/weapons.json: $.ScavNEXUSlink.name
+_("scavengernexuslinkturret")  
 // TRANSLATORS: 
 // data/base/stats/templates.json: $.BabaBusCan.name
 // data/mp/stats/templates.json: $.BabaBusCan.name
@@ -5915,6 +5936,9 @@ _("VTOL Assault Cannon")
 // data/mp/stats/weapons.json: $.MG4ROTARY-VTOL.name
 _("VTOL Assault Gun")  
 // TRANSLATORS: 
+// data/mp/stats/structure.json: $.A0BaBaVtolPad.name
+_("VTOL BaBa Rearming Pad")  
+// TRANSLATORS: 
 // data/mp/stats/templates.json: $.V-Bug-BB.name
 _("VTOL Bunker Buster Bug VTOL")  
 // TRANSLATORS: 
@@ -6033,9 +6057,15 @@ _("VTOL Lancer Scorpion VTOL")
 // data/mp/stats/weapons.json: $.Rocket-VTOL-LtA-T.name
 _("VTOL Lancer")  
 // TRANSLATORS: 
+// data/mp/stats/weapons.json: $.MG1-VTOL-SCAVS.name
+_("VTOL Machinegun Scav")  
+// TRANSLATORS: 
 // data/base/stats/weapons.json: $.MG1-VTOL.name
 // data/mp/stats/weapons.json: $.MG1-VTOL.name
 _("VTOL Machinegun")  
+// TRANSLATORS: 
+// data/mp/stats/weapons.json: $.Rocket-VTOL-Pod-SCAVS.name
+_("VTOL Mini-Rocket Scav")  
 // TRANSLATORS: 
 // data/base/stats/weapons.json: $.Rocket-VTOL-Pod.name
 // data/mp/stats/weapons.json: $.Rocket-VTOL-Pod.name
